@@ -1,0 +1,19 @@
+{
+  "name": "deku-virtual-element-bug",
+  "version": "0.0.0",
+  "description": "Bug of dekujs or virtual-element lib with empty children",
+  "main": "index.js",
+  "dependencies": {
+    "deku": "^0.5.6",
+    "virtual-element": "^1.2.0"
+  },
+  "devDependencies": {
+    "browserify": "^11.2.0",
+    "watchify": "^3.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitri Voronianski <dmitri.voronianski@gmail.com>",
+  "license": "MIT"
+}

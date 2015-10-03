@@ -17,7 +17,8 @@
             "runtime"
           ]
         }
-      ]
+      ],
+      "envify"
     ]
   },
   "devDependencies": {
@@ -25,6 +26,7 @@
     "babel-runtime": "^5.8.25",
     "babelify": "^6.3.0",
     "browserify": "^11.2.0",
+    "envify": "^3.4.0",
     "watchify": "^3.4.0"
   },
   "scripts": {
